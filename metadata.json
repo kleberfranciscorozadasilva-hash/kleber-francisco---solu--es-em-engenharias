@@ -1,0 +1,6 @@
+{
+  "name": "Kleber Francisco - Soluções em Engenharias",
+  "description": "Engenharia Elétrica e Segurança do Trabalho. Adequação à NR-12, Laudos Técnicos, SPDA, Termografia e Treinamentos com ART válida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

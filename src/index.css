@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --kf-orange: #ff6600;
+    --kf-orange-hover: #ea580c;
+    --kf-navy: #0b111e;
+    --kf-card: #131c2e;
+    --kf-card-border: #1e293b;
+    --kf-text: #f1f5f9;
+    --kf-muted: #94a3b8;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #f1f5f9;
+    background-color: #0b111e;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+}
